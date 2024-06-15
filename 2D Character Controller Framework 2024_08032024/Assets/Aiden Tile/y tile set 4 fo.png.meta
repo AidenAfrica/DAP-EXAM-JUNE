@@ -1,0 +1,1561 @@
+fileFormatVersion: 2
+guid: fe0a5a77e225fac4e9b64a799761fe25
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: y tile set 4 fo_0
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2750
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10959bfe791181a4ba9c6d372eac2817
+      internalID: -2134696249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_1
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 2750
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58eb76e116723cb46b7e22b8e9ef5533
+      internalID: -1685087360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f0766d9c1bd9348af8a49255faca27
+      internalID: -1950844173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_3
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a6c55394df5054daecd6433dabc2fd
+      internalID: 1403321603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_4
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcaa3ce99a75544ebb6c37b37c5bed3
+      internalID: -1395397149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d0d64251a8ffe4a9402a99c9cccae2
+      internalID: -1647913578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_6
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 2500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39db2737cca288408a7be3e776c247d
+      internalID: -942678402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_7
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cd507ff33cb6340ba76b765fa6a243
+      internalID: 1175245118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_8
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 2500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3325c1f845125dd4ba6adc9b9a089640
+      internalID: -1540711819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_9
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75844110454295d4984158bf3b0f4797
+      internalID: 1034368705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_10
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 2500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fb898cb186fe44b9ceab6008033218
+      internalID: 688706879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_11
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e18bea1e00efaf4081508f089af3773
+      internalID: 1659335558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49f6ef1dcb13b94ba76cc9a501f5ea0
+      internalID: 1195006669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_13
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62871600ae9547d4f954ba8a7f0c175d
+      internalID: 1500895704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_14
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba3146f842de5a4d812d04ffecd2284
+      internalID: -1328092078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_15
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2157b6dd76ddba48a708d9022899b6a
+      internalID: -1605287431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_16
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d501b519998e6c4ab79c7bb228d238f
+      internalID: -1160538773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_17
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 2250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f74e7b2a7a2124a86e52731ceb8138
+      internalID: -214612166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_18
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd1b400e9d533b46af5cf38c486b745
+      internalID: -1522892044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_19
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 2250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a2f78356c75f448b953f8fe82442de
+      internalID: 2045598545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_20
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb4ce3df837a144b8750d54564099f9
+      internalID: -502889606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_21
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 2250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c800dd2da0bf34787342163620f3d1
+      internalID: 837063071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_22
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d537f528a84a718418267e7ea90e5f3d
+      internalID: -1319909244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_23
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 2250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d922dcbd88f96bb49ad1ec736bcceae0
+      internalID: 959993266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_24
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2000
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee73631736609743add8a37ff0c2ddc
+      internalID: 1457550781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2000
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7b287abb86428469875111181b4397
+      internalID: 723194594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_26
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2000
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b958d3c8454fb04c9f2dd330241bfe3
+      internalID: 169269294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_27
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2000
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e56b572f92e4584caa1fd86a812e112
+      internalID: 735713681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_28
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 2000
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0363d4a79dc07c4da144530021c2c2e
+      internalID: -1216694095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_29
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2000
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0952460f5ae294ab36aeaae9f51df3
+      internalID: -573258260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_30
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 2000
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5326d91870f2f4c4990eb1da8f447a86
+      internalID: -1352045949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_31
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2000
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023eb15b5d1e80d4ebf0d3d28acd1d24
+      internalID: -1026445653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_32
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 2000
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a42bba7226bdf94c98dbc105a49c188
+      internalID: -1009396018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_33
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2000
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e47c75193664d4b8b2415689b7292e
+      internalID: -126545339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_34
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1750
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84eb295e62f6524abc65cc3c1d07c43
+      internalID: 914998987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_35
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1750
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a39ce96e604a7c4b9d7c336f722209c
+      internalID: 762540832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_36
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1750
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5498e962dbd641d44bc9a7cb0b0cdaaf
+      internalID: 528918120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_37
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1750
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a16fca3cbec34c41b5da3c2655ac596
+      internalID: -585246476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_38
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1750
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e84d82ed8d6c484899545db1573cf0c
+      internalID: -1279152577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_39
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1750
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf97c7d9ce114648b3e9637f178eba9
+      internalID: 246040486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_40
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1750
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a791cfe62aee4a0439b6f500bb3ec646
+      internalID: 936082908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_41
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1750
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bae37f8ee959141838bd04b2547a93
+      internalID: -903990658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_42
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1750
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2497d6a3b2a3a28439eff02a93e8da32
+      internalID: 1229830639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_43
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1750
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f558c3b07260240ba63b5e6d2c7645
+      internalID: 1089833700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_44
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147d3df01df3ea649875bd261c9540e6
+      internalID: -1032280352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_45
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793a561625556b24d90d81644f1c57ae
+      internalID: -1263196116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_46
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67fefe5bdeb7f34baedbbe29cdf03c5
+      internalID: -1963003254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_47
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836d3e5cd143780488ec90256e35cbe5
+      internalID: -1822698733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_48
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02819104588ed84eadd6a27a68b8fe2
+      internalID: -1540963154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_49
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977aee5046014b8488332c2cc558c6e3
+      internalID: -1257154851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_50
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfcae1e0405f5d4ebddd2ac06380c1c
+      internalID: 810251856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_51
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2673a22e5cf7a5640b801bb7e8072e4d
+      internalID: 2106383913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_52
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456346507c3490d489e751b478cb99d3
+      internalID: -900237132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_53
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588ff27752ff26a47a7bf0e06340ab67
+      internalID: 1050018977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_54
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69acf99b016223428956676e6cc77cd
+      internalID: 441362769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_55
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51a114229bd0ef4885f6c4f5dd4a099
+      internalID: -2075863159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_56
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1faa81144717f6949879993f0bdd8571
+      internalID: 2108390076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_57
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7807ade9af93ed7498c4697461917fec
+      internalID: -1069536830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_58
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e760cdcdcac8e6348b9535e570f0ee91
+      internalID: -439419467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_59
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b846fd1c310204bb9c5231553a792b
+      internalID: 1875649447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_60
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1000
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac3cf481283dd142b12e9c2156377fd
+      internalID: 1702252389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_61
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1000
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3c21caf187b854cba255c963d3d788
+      internalID: 1825399354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_62
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1000
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b984daf2d488c408206714dc488f18
+      internalID: -1887228435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: y tile set 4 fo_63
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 750
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f188b44a2092a3499cadb812b0327ff
+      internalID: 1256353559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      y tile set 4 fo_0: -2134696249
+      y tile set 4 fo_1: -1685087360
+      y tile set 4 fo_10: 688706879
+      y tile set 4 fo_11: 1659335558
+      y tile set 4 fo_12: 1195006669
+      y tile set 4 fo_13: 1500895704
+      y tile set 4 fo_14: -1328092078
+      y tile set 4 fo_15: -1605287431
+      y tile set 4 fo_16: -1160538773
+      y tile set 4 fo_17: -214612166
+      y tile set 4 fo_18: -1522892044
+      y tile set 4 fo_19: 2045598545
+      y tile set 4 fo_2: -1950844173
+      y tile set 4 fo_20: -502889606
+      y tile set 4 fo_21: 837063071
+      y tile set 4 fo_22: -1319909244
+      y tile set 4 fo_23: 959993266
+      y tile set 4 fo_24: 1457550781
+      y tile set 4 fo_25: 723194594
+      y tile set 4 fo_26: 169269294
+      y tile set 4 fo_27: 735713681
+      y tile set 4 fo_28: -1216694095
+      y tile set 4 fo_29: -573258260
+      y tile set 4 fo_3: 1403321603
+      y tile set 4 fo_30: -1352045949
+      y tile set 4 fo_31: -1026445653
+      y tile set 4 fo_32: -1009396018
+      y tile set 4 fo_33: -126545339
+      y tile set 4 fo_34: 914998987
+      y tile set 4 fo_35: 762540832
+      y tile set 4 fo_36: 528918120
+      y tile set 4 fo_37: -585246476
+      y tile set 4 fo_38: -1279152577
+      y tile set 4 fo_39: 246040486
+      y tile set 4 fo_4: -1395397149
+      y tile set 4 fo_40: 936082908
+      y tile set 4 fo_41: -903990658
+      y tile set 4 fo_42: 1229830639
+      y tile set 4 fo_43: 1089833700
+      y tile set 4 fo_44: -1032280352
+      y tile set 4 fo_45: -1263196116
+      y tile set 4 fo_46: -1963003254
+      y tile set 4 fo_47: -1822698733
+      y tile set 4 fo_48: -1540963154
+      y tile set 4 fo_49: -1257154851
+      y tile set 4 fo_5: -1647913578
+      y tile set 4 fo_50: 810251856
+      y tile set 4 fo_51: 2106383913
+      y tile set 4 fo_52: -900237132
+      y tile set 4 fo_53: 1050018977
+      y tile set 4 fo_54: 441362769
+      y tile set 4 fo_55: -2075863159
+      y tile set 4 fo_56: 2108390076
+      y tile set 4 fo_57: -1069536830
+      y tile set 4 fo_58: -439419467
+      y tile set 4 fo_59: 1875649447
+      y tile set 4 fo_6: -942678402
+      y tile set 4 fo_60: 1702252389
+      y tile set 4 fo_61: 1825399354
+      y tile set 4 fo_62: -1887228435
+      y tile set 4 fo_63: 1256353559
+      y tile set 4 fo_7: 1175245118
+      y tile set 4 fo_8: -1540711819
+      y tile set 4 fo_9: 1034368705
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
