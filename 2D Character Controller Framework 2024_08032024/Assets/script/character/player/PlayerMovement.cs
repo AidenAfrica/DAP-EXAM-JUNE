@@ -146,6 +146,8 @@ public class PlayerMovement : MonoBehaviour
     }
 
     #region MOVEMENT FUNCTIONS:
+
+    public Animator Anim;
     void InitialMovementCalculations(float delta)
     {
         // If the player is pressing the left or right button, call the flip function.
@@ -172,11 +174,25 @@ public class PlayerMovement : MonoBehaviour
         // to tell which direction we're moving in. Read from velocity
         // rather than input.
         if (_controller.velocity.x < -0.1)
+        {
             _movementDirection = -1;
+            Anim.SetInteger("animState", 1);
+        }
         else if (_controller.velocity.x > 0.1)
+        {
             _movementDirection = 1;
+            Anim.SetInteger("animState", 1);
+        }
         else
+        {
             _movementDirection = 0;
+            Anim.SetInteger("animState", 0);
+        }
+        if (_controller.velocity.y > 0.1)
+        {
+            Anim.SetInteger("animState", 2);
+
+        }
     }
 
     // Finds out what we're standing on, if anything... 
