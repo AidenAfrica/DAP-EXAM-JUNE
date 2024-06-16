@@ -24,6 +24,8 @@ TagManager:
   - Spike Trap
   - Moving Platform
   - Trigger
+  - player
+  - Yap
   layers:
   - Default
   - TransparentFX
